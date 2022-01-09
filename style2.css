@@ -1,0 +1,25 @@
+.gallery {
+    
+    font-size: 400 px;
+    text-align: center;  
+}  
+
+.homepage {
+    text-align: center;
+    }
+
+
+.flex-container {
+    display: flex;
+    text-align: center;
+    flex-direction: row;
+    justify-content:space-around ;
+    flex-wrap: wrap;
+
+}
+
+.top {
+    font-size: 20px;
+    text-align: center;
+    color: black
+}

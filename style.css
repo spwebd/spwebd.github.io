@@ -1,0 +1,63 @@
+body {
+    background-image :url("");
+    \\background-repeat: no-repeat;
+    text-align: center;
+    font-size: 40px;
+//background-color: rgb(86, 86, 214);
+background-color:;
+
+}
+
+h1 {
+    font-family:';
+    font-size: 100px;
+    color: red;
+}
+
+.title {
+    background-color:blue ;
+}
+
+
+
+
+
+.gates {
+    color:// rgb(230, 151, 24);
+    color:red;
+}
+
+.send {
+    color:black;
+}
+
+.contact {;
+    color: red ;
+}
+
+.button {
+    display: inline-block;
+    font-size: 20px;
+    border-radius: 25px 25px;
+    background-color: grey;
+  }
+
+  .copy
+  {
+      font-size: 20px;
+  }
+
+  .flex-container {
+      display: flex;
+      justify-content: center;
+      flex-direction: row;
+      justify-content: space-around;
+
+
+      }
+   
+      .photos {
+          //font-size: 45px;
+      }
+
+  
