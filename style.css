@@ -8,6 +8,16 @@ background-color:;
 
 }
 
+@media (max-width: 500px) {
+    body { color: blue;
+}
+
+}
+
+
+
+
+
 h1 {
     font-family:';
     font-size: 100px;
