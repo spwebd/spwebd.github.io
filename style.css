@@ -8,7 +8,7 @@ background-color:;
 
 }
 
-@media (max-width: 500px) {
+@media only screen and (max-width: 500px) {
     body { color: blue;
 }
 
