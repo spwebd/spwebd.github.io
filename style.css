@@ -47,12 +47,12 @@ h1 {
       font-size: 20px;
   }
 
-  /*.flex-container {
+  .flex-container {
       display: flex;
       justify-content: center;
       flex-direction: row;
       justify-content: space-around;
-}  */
+}  
    
       .photos {
           //font-size: 45px;
